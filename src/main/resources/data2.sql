@@ -1,0 +1,1 @@
+INSERT INTO employee (employee_id, employee_phone, pet_store_id, employee_first_name, employee_job_title, employee_last_name) VALUES (1578, 5557779999, 169, 'Jack', 'Manager', 'Travis')

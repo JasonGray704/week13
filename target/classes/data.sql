@@ -1,0 +1,2 @@
+INSERT INTO customer (customer_id, customer_email, customer_first_name, customer_last_name) VALUES (1, 'johndoe@gmail.com', 'John', 'Doe')
+INSERT INTO pet_store (pet_store_id, pet_store_phone, pet_store_zip, pet_store_address, pet_store_city, pet_store_name, pet_store_state) VALUES (169, 5557778888, 57569, '1 Pets Drive', 'Pets-A-Plenty', 'Indiana')
